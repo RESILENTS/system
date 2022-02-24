@@ -1,4 +1,4 @@
-Unit]
+[Unit]
 Description=Telegram bot 'SuperPuperTelegramBot'
 After=syslog.target
 After=network.target
